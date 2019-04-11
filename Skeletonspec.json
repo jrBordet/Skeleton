@@ -1,6 +1,9 @@
 {
         "filePlaceholder": "Skeleton",
         "foldersToRename": ["Skeleton.xcodeproj"],
+        "remoteBones": [
+            "https://github.com/jrBordet/BonesCommon.git",
+        ],
         "environmentPlaceholders": {
             "companyName": "jRSynesthesia"
         },

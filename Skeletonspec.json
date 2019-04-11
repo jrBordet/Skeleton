@@ -1,7 +1,7 @@
 {
         "filePlaceholder": "JRSkeleton",
         "filesToRename" : ["JRSkeleton.md"],
-        "foldersToRename": ["JRSkeleton.xcodeproj"],
+        "foldersToRename": ["JRSkeleton.xcodeproj", "JRSkeleton", "JRSkeletonTests"],
         "environmentPlaceholders": {
             "companyName": "jRSynesthesia"
         },

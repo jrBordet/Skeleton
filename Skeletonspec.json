@@ -2,7 +2,7 @@
         "filePlaceholder": "BobSkeleton",
         "foldersToRename": ["BobSkeleton.xcodeproj"],
         "remoteBones": [
-            "https://github.com/jrBordet/BonesCommon.git",
+            "https://github.com/jrBordet/Bones.git",
         ],
         "environmentPlaceholders": {
             "companyName": "jRSynesthesia"

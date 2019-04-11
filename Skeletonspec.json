@@ -1,6 +1,6 @@
 {
-        "filePlaceholder": "Skeleton",
-        "foldersToRename": ["Skeleton.xcodeproj"],
+        "filePlaceholder": "BobSkeleton",
+        "foldersToRename": ["BobSkeleton.xcodeproj"],
         "remoteBones": [
             "https://github.com/jrBordet/BonesCommon.git",
         ],

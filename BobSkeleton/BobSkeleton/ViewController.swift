@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Skeleton
+//  BobSkeleton
 //
 //  Created by Jean Raphael Bordet on 11/04/2019.
-//  Copyright © 2019 Touchware. All rights reserved.
+//  Copyright © 2019 Bordet. All rights reserved.
 //
 
 import UIKit

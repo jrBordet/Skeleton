@@ -7,50 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F837A174225E37C000629379 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A173225E37C000629379 /* AppDelegate.swift */; };
-		F837A176225E37C000629379 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A175225E37C000629379 /* ViewController.swift */; };
-		F837A179225E37C000629379 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F837A177225E37C000629379 /* Main.storyboard */; };
-		F837A17B225E37C100629379 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F837A17A225E37C100629379 /* Assets.xcassets */; };
-		F837A17E225E37C100629379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F837A17C225E37C100629379 /* LaunchScreen.storyboard */; };
-		F837A189225E37C100629379 /* JRSkeletonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A188225E37C100629379 /* JRSkeletonTests.swift */; };
-		F837A194225E3B1800629379 /* Skeleton.md in Resources */ = {isa = PBXBuildFile; fileRef = F837A193225E3B1800629379 /* Skeleton.md */; };
-		F837A197225F12D500629379 /* Skeleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A196225F12D500629379 /* Skeleton.swift */; };
+		F837A1A5225F1C2A00629379 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A1A4225F1C2A00629379 /* AppDelegate.swift */; };
+		F837A1A7225F1C2A00629379 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A1A6225F1C2A00629379 /* ViewController.swift */; };
+		F837A1AA225F1C2A00629379 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F837A1A8225F1C2A00629379 /* Main.storyboard */; };
+		F837A1AC225F1C2B00629379 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F837A1AB225F1C2B00629379 /* Assets.xcassets */; };
+		F837A1AF225F1C2B00629379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F837A1AD225F1C2B00629379 /* LaunchScreen.storyboard */; };
+		F837A1BA225F1C2B00629379 /* JRSkeletonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A1B9225F1C2B00629379 /* JRSkeletonTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F837A185225E37C100629379 /* PBXContainerItemProxy */ = {
+		F837A1B6225F1C2B00629379 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F837A168225E37C000629379 /* Project object */;
+			containerPortal = F837A199225F1C2A00629379 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F837A16F225E37C000629379;
+			remoteGlobalIDString = F837A1A0225F1C2A00629379;
 			remoteInfo = JRSkeleton;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F837A170225E37C000629379 /* JRSkeleton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRSkeleton.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F837A173225E37C000629379 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F837A175225E37C000629379 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F837A178225E37C000629379 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F837A17A225E37C100629379 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F837A17D225E37C100629379 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F837A17F225E37C100629379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F837A184225E37C100629379 /* JRSkeletonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JRSkeletonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F837A188225E37C100629379 /* JRSkeletonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JRSkeletonTests.swift; sourceTree = "<group>"; };
-		F837A18A225E37C100629379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F837A193225E3B1800629379 /* Skeleton.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Skeleton.md; sourceTree = "<group>"; };
-		F837A196225F12D500629379 /* Skeleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skeleton.swift; sourceTree = "<group>"; };
+		F837A1A1225F1C2A00629379 /* JRSkeleton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRSkeleton.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F837A1A4225F1C2A00629379 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F837A1A6225F1C2A00629379 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F837A1A9225F1C2A00629379 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F837A1AB225F1C2B00629379 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F837A1AE225F1C2B00629379 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F837A1B0225F1C2B00629379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F837A1B5225F1C2B00629379 /* JRSkeletonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JRSkeletonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F837A1B9225F1C2B00629379 /* JRSkeletonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JRSkeletonTests.swift; sourceTree = "<group>"; };
+		F837A1BB225F1C2B00629379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F837A16D225E37C000629379 /* Frameworks */ = {
+		F837A19E225F1C2A00629379 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F837A181225E37C100629379 /* Frameworks */ = {
+		F837A1B2225F1C2B00629379 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -60,44 +56,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F837A167225E37C000629379 = {
+		F837A198225F1C2A00629379 = {
 			isa = PBXGroup;
 			children = (
-				F837A172225E37C000629379 /* JRSkeleton */,
-				F837A187225E37C100629379 /* JRSkeletonTests */,
-				F837A171225E37C000629379 /* Products */,
+				F837A1A3225F1C2A00629379 /* JRSkeleton */,
+				F837A1B8225F1C2B00629379 /* JRSkeletonTests */,
+				F837A1A2225F1C2A00629379 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F837A171225E37C000629379 /* Products */ = {
+		F837A1A2225F1C2A00629379 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F837A170225E37C000629379 /* JRSkeleton.app */,
-				F837A184225E37C100629379 /* JRSkeletonTests.xctest */,
+				F837A1A1225F1C2A00629379 /* JRSkeleton.app */,
+				F837A1B5225F1C2B00629379 /* JRSkeletonTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F837A172225E37C000629379 /* JRSkeleton */ = {
+		F837A1A3225F1C2A00629379 /* JRSkeleton */ = {
 			isa = PBXGroup;
 			children = (
-				F837A173225E37C000629379 /* AppDelegate.swift */,
-				F837A175225E37C000629379 /* ViewController.swift */,
-				F837A177225E37C000629379 /* Main.storyboard */,
-				F837A17A225E37C100629379 /* Assets.xcassets */,
-				F837A17C225E37C100629379 /* LaunchScreen.storyboard */,
-				F837A17F225E37C100629379 /* Info.plist */,
-				F837A193225E3B1800629379 /* Skeleton.md */,
-				F837A196225F12D500629379 /* Skeleton.swift */,
+				F837A1A4225F1C2A00629379 /* AppDelegate.swift */,
+				F837A1A6225F1C2A00629379 /* ViewController.swift */,
+				F837A1A8225F1C2A00629379 /* Main.storyboard */,
+				F837A1AB225F1C2B00629379 /* Assets.xcassets */,
+				F837A1AD225F1C2B00629379 /* LaunchScreen.storyboard */,
+				F837A1B0225F1C2B00629379 /* Info.plist */,
 			);
 			path = JRSkeleton;
 			sourceTree = "<group>";
 		};
-		F837A187225E37C100629379 /* JRSkeletonTests */ = {
+		F837A1B8225F1C2B00629379 /* JRSkeletonTests */ = {
 			isa = PBXGroup;
 			children = (
-				F837A188225E37C100629379 /* JRSkeletonTests.swift */,
-				F837A18A225E37C100629379 /* Info.plist */,
+				F837A1B9225F1C2B00629379 /* JRSkeletonTests.swift */,
+				F837A1BB225F1C2B00629379 /* Info.plist */,
 			);
 			path = JRSkeletonTests;
 			sourceTree = "<group>";
@@ -105,13 +99,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F837A16F225E37C000629379 /* JRSkeleton */ = {
+		F837A1A0225F1C2A00629379 /* JRSkeleton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F837A18D225E37C100629379 /* Build configuration list for PBXNativeTarget "JRSkeleton" */;
+			buildConfigurationList = F837A1BE225F1C2B00629379 /* Build configuration list for PBXNativeTarget "JRSkeleton" */;
 			buildPhases = (
-				F837A16C225E37C000629379 /* Sources */,
-				F837A16D225E37C000629379 /* Frameworks */,
-				F837A16E225E37C000629379 /* Resources */,
+				F837A19D225F1C2A00629379 /* Sources */,
+				F837A19E225F1C2A00629379 /* Frameworks */,
+				F837A19F225F1C2A00629379 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -119,47 +113,47 @@
 			);
 			name = JRSkeleton;
 			productName = JRSkeleton;
-			productReference = F837A170225E37C000629379 /* JRSkeleton.app */;
+			productReference = F837A1A1225F1C2A00629379 /* JRSkeleton.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F837A183225E37C100629379 /* JRSkeletonTests */ = {
+		F837A1B4225F1C2B00629379 /* JRSkeletonTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F837A190225E37C100629379 /* Build configuration list for PBXNativeTarget "JRSkeletonTests" */;
+			buildConfigurationList = F837A1C1225F1C2B00629379 /* Build configuration list for PBXNativeTarget "JRSkeletonTests" */;
 			buildPhases = (
-				F837A180225E37C100629379 /* Sources */,
-				F837A181225E37C100629379 /* Frameworks */,
-				F837A182225E37C100629379 /* Resources */,
+				F837A1B1225F1C2B00629379 /* Sources */,
+				F837A1B2225F1C2B00629379 /* Frameworks */,
+				F837A1B3225F1C2B00629379 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F837A186225E37C100629379 /* PBXTargetDependency */,
+				F837A1B7225F1C2B00629379 /* PBXTargetDependency */,
 			);
 			name = JRSkeletonTests;
 			productName = JRSkeletonTests;
-			productReference = F837A184225E37C100629379 /* JRSkeletonTests.xctest */;
+			productReference = F837A1B5225F1C2B00629379 /* JRSkeletonTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F837A168225E37C000629379 /* Project object */ = {
+		F837A199225F1C2A00629379 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1020;
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = Touchware;
 				TargetAttributes = {
-					F837A16F225E37C000629379 = {
+					F837A1A0225F1C2A00629379 = {
 						CreatedOnToolsVersion = 10.2;
 					};
-					F837A183225E37C100629379 = {
+					F837A1B4225F1C2B00629379 = {
 						CreatedOnToolsVersion = 10.2;
-						TestTargetID = F837A16F225E37C000629379;
+						TestTargetID = F837A1A0225F1C2A00629379;
 					};
 				};
 			};
-			buildConfigurationList = F837A16B225E37C000629379 /* Build configuration list for PBXProject "JRSkeleton" */;
+			buildConfigurationList = F837A19C225F1C2A00629379 /* Build configuration list for PBXProject "JRSkeleton" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -167,30 +161,29 @@
 				en,
 				Base,
 			);
-			mainGroup = F837A167225E37C000629379;
-			productRefGroup = F837A171225E37C000629379 /* Products */;
+			mainGroup = F837A198225F1C2A00629379;
+			productRefGroup = F837A1A2225F1C2A00629379 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F837A16F225E37C000629379 /* JRSkeleton */,
-				F837A183225E37C100629379 /* JRSkeletonTests */,
+				F837A1A0225F1C2A00629379 /* JRSkeleton */,
+				F837A1B4225F1C2B00629379 /* JRSkeletonTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F837A16E225E37C000629379 /* Resources */ = {
+		F837A19F225F1C2A00629379 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F837A17E225E37C100629379 /* LaunchScreen.storyboard in Resources */,
-				F837A17B225E37C100629379 /* Assets.xcassets in Resources */,
-				F837A194225E3B1800629379 /* Skeleton.md in Resources */,
-				F837A179225E37C000629379 /* Main.storyboard in Resources */,
+				F837A1AF225F1C2B00629379 /* LaunchScreen.storyboard in Resources */,
+				F837A1AC225F1C2B00629379 /* Assets.xcassets in Resources */,
+				F837A1AA225F1C2A00629379 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F837A182225E37C100629379 /* Resources */ = {
+		F837A1B3225F1C2B00629379 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -200,47 +193,46 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F837A16C225E37C000629379 /* Sources */ = {
+		F837A19D225F1C2A00629379 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F837A197225F12D500629379 /* Skeleton.swift in Sources */,
-				F837A176225E37C000629379 /* ViewController.swift in Sources */,
-				F837A174225E37C000629379 /* AppDelegate.swift in Sources */,
+				F837A1A7225F1C2A00629379 /* ViewController.swift in Sources */,
+				F837A1A5225F1C2A00629379 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F837A180225E37C100629379 /* Sources */ = {
+		F837A1B1225F1C2B00629379 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F837A189225E37C100629379 /* JRSkeletonTests.swift in Sources */,
+				F837A1BA225F1C2B00629379 /* JRSkeletonTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F837A186225E37C100629379 /* PBXTargetDependency */ = {
+		F837A1B7225F1C2B00629379 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F837A16F225E37C000629379 /* JRSkeleton */;
-			targetProxy = F837A185225E37C100629379 /* PBXContainerItemProxy */;
+			target = F837A1A0225F1C2A00629379 /* JRSkeleton */;
+			targetProxy = F837A1B6225F1C2B00629379 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F837A177225E37C000629379 /* Main.storyboard */ = {
+		F837A1A8225F1C2A00629379 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F837A178225E37C000629379 /* Base */,
+				F837A1A9225F1C2A00629379 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F837A17C225E37C100629379 /* LaunchScreen.storyboard */ = {
+		F837A1AD225F1C2B00629379 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F837A17D225E37C100629379 /* Base */,
+				F837A1AE225F1C2B00629379 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -248,7 +240,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F837A18B225E37C100629379 /* Debug */ = {
+		F837A1BC225F1C2B00629379 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -309,7 +301,7 @@
 			};
 			name = Debug;
 		};
-		F837A18C225E37C100629379 /* Release */ = {
+		F837A1BD225F1C2B00629379 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -364,7 +356,7 @@
 			};
 			name = Release;
 		};
-		F837A18E225E37C100629379 /* Debug */ = {
+		F837A1BF225F1C2B00629379 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -382,7 +374,7 @@
 			};
 			name = Debug;
 		};
-		F837A18F225E37C100629379 /* Release */ = {
+		F837A1C0225F1C2B00629379 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -400,7 +392,7 @@
 			};
 			name = Release;
 		};
-		F837A191225E37C100629379 /* Debug */ = {
+		F837A1C2225F1C2B00629379 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -421,7 +413,7 @@
 			};
 			name = Debug;
 		};
-		F837A192225E37C100629379 /* Release */ = {
+		F837A1C3225F1C2B00629379 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -445,34 +437,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F837A16B225E37C000629379 /* Build configuration list for PBXProject "JRSkeleton" */ = {
+		F837A19C225F1C2A00629379 /* Build configuration list for PBXProject "JRSkeleton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F837A18B225E37C100629379 /* Debug */,
-				F837A18C225E37C100629379 /* Release */,
+				F837A1BC225F1C2B00629379 /* Debug */,
+				F837A1BD225F1C2B00629379 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F837A18D225E37C100629379 /* Build configuration list for PBXNativeTarget "JRSkeleton" */ = {
+		F837A1BE225F1C2B00629379 /* Build configuration list for PBXNativeTarget "JRSkeleton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F837A18E225E37C100629379 /* Debug */,
-				F837A18F225E37C100629379 /* Release */,
+				F837A1BF225F1C2B00629379 /* Debug */,
+				F837A1C0225F1C2B00629379 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F837A190225E37C100629379 /* Build configuration list for PBXNativeTarget "JRSkeletonTests" */ = {
+		F837A1C1225F1C2B00629379 /* Build configuration list for PBXNativeTarget "JRSkeletonTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F837A191225E37C100629379 /* Debug */,
-				F837A192225E37C100629379 /* Release */,
+				F837A1C2225F1C2B00629379 /* Debug */,
+				F837A1C3225F1C2B00629379 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F837A168225E37C000629379 /* Project object */;
+	rootObject = F837A199225F1C2A00629379 /* Project object */;
 }

@@ -1,0 +1,9 @@
+{
+        "foldersToRename" : ["JRSkeleton.xcodeproj"],
+        "filesToRename" : ["README.md"],
+        "filePlaceholder": "Skeleton",
+        "environmentPlaceholders": {
+            "companyName": "jRSynesthesia"
+        },
+        "initGit" : true
+}

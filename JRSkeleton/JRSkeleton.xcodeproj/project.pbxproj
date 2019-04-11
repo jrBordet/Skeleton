@@ -13,7 +13,7 @@
 		F837A17B225E37C100629379 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F837A17A225E37C100629379 /* Assets.xcassets */; };
 		F837A17E225E37C100629379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F837A17C225E37C100629379 /* LaunchScreen.storyboard */; };
 		F837A189225E37C100629379 /* JRSkeletonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A188225E37C100629379 /* JRSkeletonTests.swift */; };
-		F837A194225E3B1800629379 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F837A193225E3B1800629379 /* README.md */; };
+		F837A194225E3B1800629379 /* Skeleton.md in Resources */ = {isa = PBXBuildFile; fileRef = F837A193225E3B1800629379 /* Skeleton.md */; };
 		F837A197225F12D500629379 /* Skeleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A196225F12D500629379 /* Skeleton.swift */; };
 /* End PBXBuildFile section */
 
@@ -38,7 +38,7 @@
 		F837A184225E37C100629379 /* JRSkeletonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JRSkeletonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F837A188225E37C100629379 /* JRSkeletonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JRSkeletonTests.swift; sourceTree = "<group>"; };
 		F837A18A225E37C100629379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F837A193225E3B1800629379 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F837A193225E3B1800629379 /* Skeleton.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Skeleton.md; sourceTree = "<group>"; };
 		F837A196225F12D500629379 /* Skeleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skeleton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -87,7 +87,7 @@
 				F837A17A225E37C100629379 /* Assets.xcassets */,
 				F837A17C225E37C100629379 /* LaunchScreen.storyboard */,
 				F837A17F225E37C100629379 /* Info.plist */,
-				F837A193225E3B1800629379 /* README.md */,
+				F837A193225E3B1800629379 /* Skeleton.md */,
 				F837A196225F12D500629379 /* Skeleton.swift */,
 			);
 			path = JRSkeleton;
@@ -185,7 +185,7 @@
 			files = (
 				F837A17E225E37C100629379 /* LaunchScreen.storyboard in Resources */,
 				F837A17B225E37C100629379 /* Assets.xcassets in Resources */,
-				F837A194225E3B1800629379 /* README.md in Resources */,
+				F837A194225E3B1800629379 /* Skeleton.md in Resources */,
 				F837A179225E37C000629379 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

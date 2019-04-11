@@ -13,6 +13,7 @@
 		F837A1AC225F1C2B00629379 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F837A1AB225F1C2B00629379 /* Assets.xcassets */; };
 		F837A1AF225F1C2B00629379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F837A1AD225F1C2B00629379 /* LaunchScreen.storyboard */; };
 		F837A1BA225F1C2B00629379 /* JRSkeletonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F837A1B9225F1C2B00629379 /* JRSkeletonTests.swift */; };
+		F837A1C5225F20F600629379 /* JRSkeleton.md in Resources */ = {isa = PBXBuildFile; fileRef = F837A1C4225F20F600629379 /* JRSkeleton.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F837A1B5225F1C2B00629379 /* JRSkeletonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JRSkeletonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F837A1B9225F1C2B00629379 /* JRSkeletonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JRSkeletonTests.swift; sourceTree = "<group>"; };
 		F837A1BB225F1C2B00629379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F837A1C4225F20F600629379 /* JRSkeleton.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = JRSkeleton.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				F837A1AB225F1C2B00629379 /* Assets.xcassets */,
 				F837A1AD225F1C2B00629379 /* LaunchScreen.storyboard */,
 				F837A1B0225F1C2B00629379 /* Info.plist */,
+				F837A1C4225F20F600629379 /* JRSkeleton.md */,
 			);
 			path = JRSkeleton;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F837A1AF225F1C2B00629379 /* LaunchScreen.storyboard in Resources */,
+				F837A1C5225F20F600629379 /* JRSkeleton.md in Resources */,
 				F837A1AC225F1C2B00629379 /* Assets.xcassets in Resources */,
 				F837A1AA225F1C2A00629379 /* Main.storyboard in Resources */,
 			);
